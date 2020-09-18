@@ -1,6 +1,6 @@
 /venv
 /env
-/data
+#/data
 /.ipynb_checkpoints
 ./**/.ipynb_checkpoints
 /md
